@@ -1,0 +1,13 @@
+/** Correct line height in all browsers **/
+html {
+    line-height: 1.15;
+}
+
+/** Remove margin in all browsers **/
+body {
+    margin: 0;
+}
+
+h1 {
+    font-family: "Press Start";
+}
