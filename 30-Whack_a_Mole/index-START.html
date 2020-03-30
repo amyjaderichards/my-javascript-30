@@ -75,7 +75,7 @@
 
   
   function bonk(e) {
-    if (!e.isTrusted) return; //cheating!
+    if (!e.isTrusted) return; //cheating (fake click)!
     score++;
     this.classList.remove('up');
     scoreBoard.textContent = score;
